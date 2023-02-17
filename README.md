@@ -1,6 +1,6 @@
 # MiniProjects
 
-CombinationsOfSix <br>
+<h2>CombinationsOfSix<h2> <br>
 This is a Java program that generates all possible combinations of six numbers from a list of integers stored in a text file, and writes the combinations that meet certain conditions to another text file. The program checks whether the combination meets the following conditions:
 
 There are no more than four even numbers and four odd numbers.
